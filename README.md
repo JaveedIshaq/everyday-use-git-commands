@@ -1,8 +1,6 @@
 # everyday-use-git-commands
 as list of commands for Git
 
-# Everyday Commands (for beginners)
-I tried to order them in the order in which one may require them
 ## Cloning a repository
 Usually the first step you take when you start working with git, you clone a remote repository
 ```
