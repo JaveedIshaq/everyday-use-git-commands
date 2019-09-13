@@ -155,3 +155,9 @@ The -x option creates cherry pick stamp with the commit.
 ## Git commit messages, best practices
 TODO: read articles and update this.
 
+## Check Which files are updated in previouse commits
+```
+git log --name-only
+
+```
+
